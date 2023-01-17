@@ -16,3 +16,13 @@ There are six steps used in completing this analysis:
 - Act
 
 ### **Ask:** 
+
+### **Prepare:**
+
+### **Process:**
+
+### **Analyze:**
+
+### **Share:**
+
+### **Act:**
