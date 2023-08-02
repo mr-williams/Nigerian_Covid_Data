@@ -1,5 +1,5 @@
 # Nigerian Covid Data
-  Considering covid-19 plagued the world throughout 2020 bringing major markets & livelihoods to a halt, I thought it would be a good idea to see just how much this pandemic affected my country from 2020 to 2022 and how many people were directly affected. 
+  Considering covid-19 plagued the world throughout 2020 bringing major markets & livelihoods to a halt, I thought it would be a good idea to see just how much this pandemic affected my country and it's people from 2020 to 2022 
 
 The subnational data about Covid19 in Nigeria per day - Infections (new cases), Deaths, Recoveries + Gender data per region. 
 This Data was gotten of this [website](https://data.humdata.org/dataset/nigeria_covid19_subnational).
